@@ -1,7 +1,9 @@
 # CyberProject
+<!DOCTYPE html>
 <html>
-  <heading> Hello,
-    <body> this is my new stuffs
+  <head>Nothing over here
+    <body><b> Hello, this is my new stuffs...</b>
     </body>
-  </heading>
+  </head>
+  <body style="background-color:antiquewhite">
 </htmml>
